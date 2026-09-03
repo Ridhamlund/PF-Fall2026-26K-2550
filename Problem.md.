@@ -1,0 +1,5 @@
+Ask the user to enter a number
+check whether the number can be divided by 2 without a reminder
+if it can be then print(even)
+otherwise print(odd)
+end algorithm
